@@ -11,7 +11,7 @@ public class Program {
 		Scanner sc = new Scanner(System.in);
 		ChessMatch mat = new ChessMatch();
 		UI.printBoard(mat.getPieces());
-		
+		//problemas com o githut na hora do commit
 		/*
 		Board board = new Board(8, 8);	
 		int rows = 8, columns = 8;
